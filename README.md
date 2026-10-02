@@ -131,7 +131,7 @@ Excel was used to:
 
 ### 3. Branch-wise Profitability
 
-![Branch-wise Profitability](images/Branch-wise%20Profitability.png)
+![Branch Profitability](images/Branch%20Profitability.png)
 
 **Insight:** This chart compares profitability across individual branches and helps identify differences in branch performance.
 
