@@ -137,11 +137,11 @@ Excel was used to:
 
 ## Important SQL Code Snippets
 
-### Total Income
+### Total Revenue
 
 ```sql
 SELECT
-    SUM(Interest_Income + Fee_Income) AS Total_Income
+    SUM(Interest_Income + Fee_Income) AS Total_Revenue
 FROM branch_data;
 ```
 
